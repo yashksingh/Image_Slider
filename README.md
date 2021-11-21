@@ -23,6 +23,24 @@ Home slide shows were a relatively common phenomenon in middle-class American ho
 An image on 35 mm film mounted in a 2×2 inch (5×5 cm) metal, card or plastic frame is still by far the most common photographic slide format.
 
 <hr>
+<img src="https://github.com/yashksingh/Image_Slider/blob/main/Wiki_Images/pexels-pavel-danilyuk-9064236.jpg">
+<hr>
+
+## USES
+
+A well-organized slide show allows a presenter to fit visual images to an oral presentation. The old adage "A picture is worth a thousand words" holds true, in that a single image can save a presenter from speaking a paragraph of descriptive details. As with any public speaking or lecturing, a certain amount of talent, experience, and rehearsal is required to make a successful slide show presentation.
+
+Presentation software is most commonly used in the business world, where millions of presentations are created daily.[citation needed] Another very important area where it is used is for instructional purposes, usually with the intention of creating a dynamic, audiovisual presentation. The relevant points to the entire presentation are put on slides, and accompany a spoken monologue.
+
+Slide shows have artistic uses as well, such as being used as a screensaver, or to provide dynamic imagery for a museum presentation, for example, or in installation art. David Byrne, among others, has created PowerPoint art.
+
+## ABOUT THIS REPO:
+
+- This is a basic webpage like the powerpoint presentation.
+- I name this image slider.
+- I created this proejct using the basic HTML, CSS, JavaScript.
+
+<hr>
 <img src="">
 <hr>
 
