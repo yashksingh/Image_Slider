@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+  <!-- Design by foolishdeveloper.com -->
+  
+  
+    <title>Image Slider</title>
+    <link rel="stylesheet" href="style.css">
+    <!--Stylesheet-->
+    
+</head>
+<body>
+    <div class="container">
+        <div class="image-container">
+            <img src="https://i.pinimg.com/originals/2b/de/de/2bdede0647e3cdf75b44ea33723201d9.jpg" id="content1" class="active">
+            <img src="https://images6.alphacoders.com/462/thumb-1920-462371.jpg" id="content2">
+            <img src="https://images5.alphacoders.com/343/thumb-1920-343645.jpg" id="content3">
+            <img src="https://cdn.wallpapersafari.com/24/98/dwMtqD.jpg" id="content4">
+        </div>
+        <div class="dot-container">
+            <button onclick = "dot(1)"></button>
+            <button onclick = "dot(2)"></button>
+            <button onclick = "dot(3)"></button>
+            <button onclick = "dot(4)"></button>
+        </div>
+        <button id="prev" onclick="prev()"> &lt; </button>
+        <button id="next" onclick="next()"> &gt; </button>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
