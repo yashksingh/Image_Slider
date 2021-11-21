@@ -41,6 +41,6 @@ Slide shows have artistic uses as well, such as being used as a screensaver, or 
 - I created this proejct using the basic HTML, CSS, JavaScript.
 
 <hr>
-<img src="">
+<img src="https://github.com/yashksingh/Image_Slider/blob/main/Wiki_Images/pexels-asad-photo-maldives-3293148.jpg">
 <hr>
 
