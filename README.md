@@ -1,4 +1,4 @@
-# Image_Slider / Slider Show
+# Image_Slider / Slide Show
 
 ## INTRODUCTION
 
